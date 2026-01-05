@@ -1,0 +1,12 @@
+__pycache__/
+venv/
+.env
+*.pyc
+*.pyo
+.vscode/
+.idea/
+node_modules/
+package-lock.json
+
+# Ignore nested original WatchParty folder (if present)
+watch_party/
